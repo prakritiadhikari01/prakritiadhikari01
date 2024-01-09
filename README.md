@@ -2,7 +2,7 @@
 ### Prakriti Adhikari 
 
 
-Hello ,I'm Prakriti,a dedicated Flutter Developer Intern with a knack for turning ideas into reality through clean, efficient code. Currently delving deep into the world of mobile app development, I'm enthusiastic about creating intuitive and engaging user interfaces.
+Hello ,I'm Prakriti, a dedicated Flutter Developer Intern with a knack for turning ideas into reality through clean, efficient code. Currently delving deep into the world of mobile app development, I'm enthusiastic about creating intuitive and engaging user interfaces.
 
 
 ### My works

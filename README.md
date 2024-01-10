@@ -10,9 +10,9 @@ Flutter Development Intern @ [Thulo Technology]
 I'm always eager to expand my skill set and stay updated with the latest in mobile app development. Currently exploring Flutter and excited to apply it in upcoming projects. 
 ### Connect with Me 
 Let's connect and explore opportunities together!
-- [linkedIn] www.linkedin.com/in/prakriti-adhikari-30a138294
-- [Facebook] www.facebook.com/prakriti.adhikari.562
-- [Instagram] www.instagram.com/adhprakriti
+- [linkedIn](www.linkedin.com/in/prakriti-adhikari-30a138294)
+- [Facebook](www.facebook.com/prakriti.adhikari.562)
+- [Instagram](www.instagram.com/adhprakriti)
 ### Skills
 - Programming skills on C,C++ and dart.
 - Problem solving skills.

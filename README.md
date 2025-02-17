@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Prakriti Adhikari
-I am Prakriti Adhikari , a passionate third-semester Computer Engineering student with an insatiable curiosity for programming and its practical applications. As a Flutter Developer Intern, I'm immersed in the dynamic world of mobile app development, learning to translate ideas into captivating user experiences.
+I am Prakriti Adhikari , a passionate fifth-semester Computer Engineering student with an insatiable curiosity for programming and its practical applications. As a Flutter Developer Intern, I'm immersed in the dynamic world of mobile app development, learning to translate ideas into captivating user experiences.
 ### Professional Experience:
 Flutter Development Intern @[Thulo Technology]
 - Collaborating with a talented team to build responsive and user-friendly mobile applications.

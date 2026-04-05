@@ -1,25 +1,55 @@
-### Hi there 👋
-### Prakriti Adhikari
-I am Prakriti Adhikari , a passionate sixth-semester Computer Engineering student with an insatiable curiosity for programming and its practical applications. As a Flutter Developer Intern, I'm immersed in the dynamic world of mobile app development, learning to translate ideas into captivating user experiences.
-### Professional Experience:
-Flutter Development Intern [@Thulo Technology](https://www.linkedin.com/company/thulotechnology/)
-- Collaborating with a talented team to build responsive and user-friendly mobile applications.
-- Developing robust and scalable solutions using Flutter framework.
-- Continuously learning and implementing best practices in app development.
-### Continuous Learning:
-I'm always eager to expand my skill set and stay updated with the latest in mobile app development. Currently exploring Flutter and excited to apply it in upcoming projects. 
-### Connect with Me 
-Let's connect and explore opportunities together!
-- [linkedIn](www.linkedin.com/in/prakriti-adhikari-30a138294)
-- [Facebook](www.facebook.com/prakriti.adhikari.562)
-- [Instagram](www.instagram.com/adhprakriti)
-### Skills
-- Programming skills on C,C++,Java, Python and Dart.
-- Problem solving skills.
- ### Open to Collaboration:
-I'm open to collaboration, whether it's contributing to open source projects or exploring new ideas. Reach out if you're interested in working together! 
-  ### Goal
-My aim is to create impactful applications that not only solve problems but also elevate user experiences. I'm passionate about leveraging technology to make a positive difference.
+# Hi there 👋, I'm Prakriti Adhikari
 
-Looking forward to connecting with like-minded individuals, learning, and crafting exceptional digital experiences together! 🚀
+A **sixth-semester Computer Engineering student** passionate about **programming, AI, and mobile app development**. I love turning ideas into real-world applications and continuously learning new technologies. 🚀
 
+---
+
+## 🌟 About Me
+- Currently a **Flutter Developer Intern** at [Thulo Technology](https://www.linkedin.com/company/thulotechnology/)
+- Exploring **Flutter**, **Dart**, and mobile app development best practices
+- Enthusiastic about **AI, Machine Learning, and Generative AI**
+- Strong interest in **problem-solving, coding challenges, and tech innovation**
+
+---
+
+## 💻 Skills
+
+**Programming Languages:** C, C++, Java, Python, Dart  
+**Frameworks & Tools:** Flutter, Git, REST APIs, Firebase  
+**Other Skills:** Problem-solving, Mobile App Design, UI/UX Principles  
+
+---
+
+## 🔹 Professional Experience
+
+**Flutter Developer Intern** – [Thulo Technology](https://www.linkedin.com/company/thulotechnology/)  
+- Building responsive and user-friendly mobile applications  
+- Developing robust, scalable solutions using Flutter  
+- Collaborating with a talented team to implement best practices  
+
+---
+
+## 🌱 Currently Learning
+- Advanced Flutter techniques  
+- Generative AI projects and integrations  
+- Mobile app optimization and scalable architecture  
+
+---
+
+## 🤝 Open to Collaboration
+I enjoy contributing to **open-source projects**, **team projects**, and exploring **new tech ideas**.  
+Feel free to reach out if you want to **collaborate or learn together!**
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/prakriti-adhikari-30a138294)  
+- [Instagram](https://www.instagram.com/adhprakriti)  
+- [Facebook](https://www.facebook.com/prakriti.adhikari.562)  
+- [GitHub](https://github.com/prakritiadhikari01)  
+
+---
+
+## 🎯 Goal
+To create **impactful applications** that solve real problems and elevate user experiences.  
+I’m passionate about **leveraging technology to make a positive difference** in the digital world.

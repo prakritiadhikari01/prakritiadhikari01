@@ -5,7 +5,7 @@ A **Computer Engineering student** passionate about **programming, AI, and mobil
 ---
 
 ## 🌟 About Me
-- Currently a **Flutter Developer Intern** at [Thulo Technology](https://www.linkedin.com/company/thulotechnology/)
+- Worked as a **Flutter Developer Intern** at [Thulo Technology](https://www.linkedin.com/company/thulotechnology/)
 - Exploring **Flutter**, **Dart**, and mobile app development best practices
 - Enthusiastic about **AI, Machine Learning, and Generative AI**
 - Strong interest in **problem-solving, coding challenges, and tech innovation**
@@ -15,7 +15,7 @@ A **Computer Engineering student** passionate about **programming, AI, and mobil
 ## 💻 Skills
 
 **Programming Languages:** C, C++, Java, Python, Dart  
-**Frameworks & Tools:** Flutter, Git, REST APIs, Firebase  
+**Frameworks & Tools:** Flutter, Git, REST APIs, Firebase, Django 
 **Other Skills:** Problem-solving, Mobile App Design, UI/UX Principles  
 
 ---

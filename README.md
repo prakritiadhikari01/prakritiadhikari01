@@ -42,14 +42,6 @@ Feel free to reach out if you want to **collaborate or learn together!**
 
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/prakriti-adhikari-30a138294)  
-- [Instagram](https://www.instagram.com/adhprakriti)  
-- [Facebook](https://www.facebook.com/prakriti.adhikari.562)  
-- [GitHub](https://github.com/prakritiadhikari01)  
-
----
-
 ## 🎯 Goal
 To create **impactful applications** that solve real problems and elevate user experiences.  
 I’m passionate about **leveraging technology to make a positive difference** in the digital world.

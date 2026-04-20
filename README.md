@@ -1,55 +1,106 @@
-# Hi there 👋, I'm Prakriti Adhikari
+# 👋 Hi, I'm Prakriti Adhikari
 
-A **Computer Engineering student** passionate about **programming, AI, and mobile app development**. I love turning ideas into real-world applications and continuously learning new technologies. 🚀
+🚀 **AI & Backend Developer | Generative AI | Django | Computer Vision**
 
----
-
-## 🌟 About Me
-- Worked as a **Flutter Developer Intern** at [Thulo Technology](https://www.linkedin.com/company/thulotechnology/)
-- Exploring **Flutter**, **Dart**, and mobile app development best practices
-- Enthusiastic about **AI, Machine Learning, and Generative AI**
-- Strong interest in **problem-solving, coding challenges, and tech innovation**
+I’m a Computer Engineering student focused on building **intelligent, real-world AI systems** that combine strong backend engineering with meaningful user experiences.
 
 ---
 
-## 💻 Skills
+## 🧠 About Me
 
-**Programming Languages:** C, C++, Java, Python, Dart  
-**Frameworks & Tools:** Flutter, Git, REST APIs, Firebase, Django 
-**Other Skills:** Problem-solving, Mobile App Design, UI/UX Principles  
-
----
-
-## 🔹 Professional Experience
-
-**Flutter Developer Intern** – [Thulo Technology](https://www.linkedin.com/company/thulotechnology/)  
-- Building responsive and user-friendly mobile applications  
-- Developing robust, scalable solutions using Flutter  
-- Collaborating with a talented team to implement best practices  
+- 🤖 I build AI-powered applications using LLMs, Computer Vision, and Generative AI  
+- 🔧 Strong focus on backend systems using Django & REST APIs  
+- 🧩 Passionate about solving real-world problems with scalable tech solutions  
+- 🚀 I enjoy turning ideas into production-like intelligent systems  
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Flutter techniques  
-- Generative AI projects and integrations  
-- Mobile app optimization and scalable architecture  
+## 🔥 Featured Projects
+
+### 🎙️ ReflectCast – AI Podcast Generator
+- Converts user reflections into personalized audio podcasts  
+- Uses GPT for emotion-aware script generation  
+- Integrated **ChromaDB** for contextual memory & personalization  
+- Built full pipeline: chat → AI reasoning → TTS audio generation  
 
 ---
 
-## 🤝 Open to Collaboration
-I enjoy contributing to **open-source projects**, **team projects**, and exploring **new tech ideas**.  
-Feel free to reach out if you want to **collaborate or learn together!**
+### 🚦 Traffix – Smart Traffic System
+- Real-time vehicle detection using **YOLOv8 + OpenCV**  
+- Adaptive traffic signal optimization based on congestion  
+- Simulated smart city traffic control system  
+- Focused on improving flow efficiency using AI decisions  
 
 ---
 
-## 🎯 Goal
-To create **impactful applications** that solve real problems and elevate user experiences.  
-I’m passionate about **leveraging technology to make a positive difference** in the digital world.
+### 🏠 HomeGuard – Smart Surveillance System (Ongoing)
+- Face recognition-based unauthorized access detection  
+- Real-time monitoring with alert system  
+- Built using FaceNet + Dlib  
+- Designed for secure AI-powered smart home systems  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adhprakriti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adhikariprakriti/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prakriti.adhikari.456@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-[![](https://visitcount.itsvg.in/api?id=prakritIadhikari01&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💼 Experience
 
+**🧑‍💼 College Ambassador – NIC**  
+- Organized Digital Design & Creativity event  
+- Managed student engagement & technical promotion  
+
+**🐍 Django Workshop**  
+- Hands-on backend development training  
+- Learned REST API architecture & Django workflows  
+
+**🌍 Nobel Fundamentals Internship**  
+- Worked with international peers  
+- Improved leadership, communication & collaboration skills  
+
+**📱 Flutter Developer Intern – Thulo Technology**  
+- Built real-world Flutter applications  
+- Collaborated in agile development & code reviews  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, C, C++, Java, JavaScript, Dart, HTML  
+
+**AI/ML:** YOLOv8, OpenCV, FaceNet, Dlib, LLM APIs, Prompt Engineering, ChromaDB  
+
+**Backend:** Django, REST APIs, Firebase, MySQL, SQLite  
+
+**Tools:** Git, AWS, Google Colab  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prakritiadhikari01&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakritiadhikari01&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Focus
+
+Building **AI systems that are intelligent, practical, and scalable** — especially in:
+- Generative AI applications  
+- Computer Vision systems  
+- Backend-powered AI products  
+
+---
+
+## 📫 Connect
+
+- 💌 Email: prakriti.adhikari.456@gmail.com  
+- 🌐 Portfolio: www.prakritiadhikari.info.np  
+- 💼 LinkedIn: linkedin.com/in/adhikariprakriti  
+- 💻 GitHub: github.com/prakritiadhikari01  
+
+---
+
+⭐ *“Building AI systems that solve real problems, not just demos.”*

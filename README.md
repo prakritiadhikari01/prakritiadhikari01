@@ -73,18 +73,6 @@ I’m a Computer Engineering student focused on building **intelligent, real-wor
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakritiadhikari01&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakritiadhikari01&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🎯 Focus
 
 Building **AI systems that are intelligent, practical, and scalable** — especially in:

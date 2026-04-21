@@ -19,7 +19,7 @@
 
 ## 🔥 Featured Projects
 
-### 🎙️ ReflectCast – AI Podcast Generator
+### 🎙️ ReflectCast – Bedtime Podcast Generator
 > Transforming thoughts into personalized AI-generated podcasts  
 
 - GPT-based emotion-aware script generation  
@@ -27,17 +27,16 @@
 - End-to-end pipeline: chat → AI → TTS audio  
 - Interactive conversational interface  
 
-### 🎥 Demo
-
 <p align="center">
   <a href="https://youtu.be/S3u2gP0L9tc">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" width="600" />
+    ▶️ Watch ReflectCast in Action
   </a>
 </p>
+
 ---
 
-### 🚦 Traffix – Smart Traffic System
-> AI-powered traffic optimization for smart cities  
+### 🚦 Traffix – Smart Traffic Light Automation System
+> AI + IoT-based traffic light control system reducing urban congestion   
 
 - Real-time vehicle detection (YOLOv8 + OpenCV)  
 - Adaptive traffic signal control  
@@ -58,28 +57,8 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,dart,html" />
-</p>
-
-### 🤖 AI / ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
-</p>
-
-<p align="center">
-🧠 YOLOv8 • FaceNet • Dlib • LLM APIs • Prompt Engineering • ChromaDB
-</p>
-
-### ⚙️ Backend & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,firebase,mysql,sqlite" />
-</p>
-
-### 🧰 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,aws,github" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,dart,html,django,firebase,mysql,sqlite,opencv,tensorflow,pytorch,git,aws,github" />
 </p>
 
 ---
@@ -92,10 +71,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakritiadhikari01&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakritiadhikari01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

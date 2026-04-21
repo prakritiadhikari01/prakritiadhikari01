@@ -25,7 +25,7 @@ I’m a Computer Engineering student focused on building **intelligent, real-wor
 
 ---
 
-### 🚦 Traffix – Smart Traffic System
+### 🚦 Traffix – Smart Light Automation and Monitoring System
 - Real-time vehicle detection using **YOLOv8 + OpenCV**  
 - Adaptive traffic signal optimization based on congestion  
 - Simulated smart city traffic control system  

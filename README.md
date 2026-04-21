@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prakriti Adhikari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Backend+Developer;Generative+AI+Builder;Computer+Vision+Engineer;Building+Real-World+AI+Systems&center=true&width=500&height=50">
+  🚀 <b>AI & Backend Developer</b> • Generative AI • Computer Vision
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+Systems+That+Solve+Real+Problems;LLMs+%2B+Backend+%2B+Real-World+Applications;From+Ideas+to+Intelligent+Products&center=true&width=520&height=45">
+</p>
 ---
 
 ## 🧠 About Me

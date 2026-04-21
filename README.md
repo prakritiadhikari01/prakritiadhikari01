@@ -103,6 +103,3 @@ Building **AI systems that are intelligent, practical, and scalable** — especi
 </a>
 
 </p>
----
-
-⭐ *“Building AI systems that solve real problems, not just demos.”*

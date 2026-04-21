@@ -1,10 +1,8 @@
-# 👋 Hi, I'm Prakriti Adhikari
+<h1 align="center">Hi 👋, I'm Prakriti Adhikari</h1>
 
-🚀 **AI & Backend Developer | Generative AI | Django | Computer Vision**
-
-I’m a Computer Engineering student focused on building **intelligent, real-world AI systems** that combine strong backend engineering with meaningful user experiences.
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Backend+Developer;Generative+AI+Enthusiast;Computer+Vision+Builder;Building+Real-World+AI+Systems&center=true&width=500&height=50">
+</p>
 
 ## 🧠 About Me
 
@@ -63,13 +61,29 @@ I’m a Computer Engineering student focused on building **intelligent, real-wor
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, C, C++, Java, JavaScript, Dart, HTML  
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,dart,html" />
+</p>
 
-**AI/ML:** YOLOv8, OpenCV, FaceNet, Dlib, LLM APIs, Prompt Engineering, ChromaDB  
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
+</p>
 
-**Backend:** Django, REST APIs, Firebase, MySQL, SQLite  
+<p>
+  🧠 YOLOv8 • FaceNet • Dlib • LLM APIs • Prompt Engineering • ChromaDB
+</p>
 
-**Tools:** Git, AWS, Google Colab  
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=django,firebase,mysql,sqlite" />
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,aws,github" />
+</p> 
 
 ---
 
@@ -82,24 +96,19 @@ Building **AI systems that are intelligent, practical, and scalable** — especi
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="mailto:prakriti.adhikari.456@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/adhikariprakriti">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/prakritiadhikari01">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.prakritiadhikari.info.np">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
-
+  <a href="mailto:prakriti.adhikari.456@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/adhikariprakriti">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/prakritiadhikari01">
+    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.prakritiadhikari.info.np">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
 </p>

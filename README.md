@@ -27,9 +27,9 @@
 - End-to-end pipeline: chat → AI → TTS audio  
 - Interactive conversational interface  
 
-<p align="center">
+<p align="left">
   <a href="https://youtu.be/S3u2gP0L9tc">
-     ###Demo
+    🎥 View Demo
   </a>
 </p>
 

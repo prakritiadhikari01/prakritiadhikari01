@@ -82,13 +82,27 @@ Building **AI systems that are intelligent, practical, and scalable** — especi
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
-- 💌 Email: prakriti.adhikari.456@gmail.com  
-- 🌐 Portfolio: www.prakritiadhikari.info.np  
-- 💼 LinkedIn: www.linkedin.com/in/adhikariprakriti/ 
-- 💻 GitHub: github.com/prakritiadhikari01  
+<p align="center">
 
+<a href="mailto:prakriti.adhikari.456@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/adhikariprakriti">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/prakritiadhikari01">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.prakritiadhikari.info.np">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+
+</p>
 ---
 
 ⭐ *“Building AI systems that solve real problems, not just demos.”*

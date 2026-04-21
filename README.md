@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+Systems+That+Solve+Real+Problems;LLMs+%2B+Backend+%2B+Real-World+Applications;From+Ideas+to+Intelligent+Products&center=true&width=520&height=45">
 </p>
+
 ---
 
 ## 🧠 About Me

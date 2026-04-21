@@ -86,7 +86,7 @@ Building **AI systems that are intelligent, practical, and scalable** — especi
 
 - 💌 Email: prakriti.adhikari.456@gmail.com  
 - 🌐 Portfolio: www.prakritiadhikari.info.np  
-- 💼 LinkedIn: linkedin.com/in/adhikariprakriti  
+- 💼 LinkedIn: linkedin.com/adhikariprakriti  
 - 💻 GitHub: github.com/prakritiadhikari01  
 
 ---

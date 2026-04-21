@@ -1,98 +1,112 @@
 <h1 align="center">Hi 👋, I'm Prakriti Adhikari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Backend+Developer;Generative+AI+Enthusiast;Computer+Vision+Builder;Building+Real-World+AI+Systems&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Backend+Developer;Generative+AI+Builder;Computer+Vision+Engineer;Building+Real-World+AI+Systems&center=true&width=500&height=50">
 </p>
+
+---
 
 ## 🧠 About Me
 
-- 🤖 I build AI-powered applications using LLMs, Computer Vision, and Generative AI  
-- 🔧 Strong focus on backend systems using Django & REST APIs  
-- 🧩 Passionate about solving real-world problems with scalable tech solutions  
-- 🚀 I enjoy turning ideas into production-like intelligent systems  
+🚀 Computer Engineering student focused on building **real-world AI systems** that combine **Generative AI, Computer Vision, and Backend Engineering**
+
+- 🤖 AI systems using LLMs, CV, and intelligent pipelines  
+- 🔧 Backend development with Django & REST APIs  
+- 🧩 Problem-solver focused on scalable, practical solutions  
+- ⚡ Turning ideas into production-like AI applications  
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🎙️ ReflectCast – AI Podcast Generator
-- Converts user reflections into personalized audio podcasts  
-- Uses GPT for emotion-aware script generation  
-- Integrated **ChromaDB** for contextual memory & personalization  
-- Built full pipeline: chat → AI reasoning → TTS audio generation  
+> Transforming thoughts into personalized AI-generated podcasts  
+
+- GPT-based emotion-aware script generation  
+- ChromaDB-powered contextual memory  
+- End-to-end pipeline: chat → AI → TTS audio  
+- Interactive conversational interface  
+
+### 🎥 Demo
+
+<p align="center">
+  <a href="https://youtu.be/S3u2gP0L9tc">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" width="600" />
+  </a>
+</p>
+---
+
+### 🚦 Traffix – Smart Traffic System
+> AI-powered traffic optimization for smart cities  
+
+- Real-time vehicle detection (YOLOv8 + OpenCV)  
+- Adaptive traffic signal control  
+- Dynamic congestion-based optimization  
+- Simulated intelligent traffic environment  
 
 ---
 
-### 🚦 Traffix – Smart Light Automation and Monitoring System
-- Real-time vehicle detection using **YOLOv8 + OpenCV**  
-- Adaptive traffic signal optimization based on congestion  
-- Simulated smart city traffic control system  
-- Focused on improving flow efficiency using AI decisions  
+### 🏠 HomeGuard – Smart Surveillance System
+> AI-based security for modern smart homes  
 
----
-
-### 🏠 HomeGuard – Smart Surveillance System (Ongoing)
-- Face recognition-based unauthorized access detection  
-- Real-time monitoring with alert system  
-- Built using FaceNet + Dlib  
-- Designed for secure AI-powered smart home systems  
-
----
-
-## 💼 Experience
-
-**🧑‍💼 College Ambassador – NIC**  
-- Organized Digital Design & Creativity event  
-- Managed student engagement & technical promotion  
-
-**🐍 Django Workshop**  
-- Hands-on backend development training  
-- Learned REST API architecture & Django workflows  
-
-**🌍 Nobel Fundamentals Internship**  
-- Worked with international peers  
-- Improved leadership, communication & collaboration skills  
-
-**📱 Flutter Developer Intern – Thulo Technology**  
-- Built real-world Flutter applications  
-- Collaborated in agile development & code reviews  
+- Face recognition (FaceNet + Dlib)  
+- Real-time monitoring & alerts  
+- Unauthorized access detection system  
+- Secure AI-driven surveillance  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,dart,html" />
 </p>
 
 ### 🤖 AI / ML
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
 </p>
 
-<p>
-  🧠 YOLOv8 • FaceNet • Dlib • LLM APIs • Prompt Engineering • ChromaDB
+<p align="center">
+🧠 YOLOv8 • FaceNet • Dlib • LLM APIs • Prompt Engineering • ChromaDB
 </p>
 
 ### ⚙️ Backend & Databases
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=django,firebase,mysql,sqlite" />
 </p>
 
 ### 🧰 Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,aws,github" />
-</p> 
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prakritiadhikari01&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakritiadhikari01&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakritiadhikari01&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🎯 Focus
 
-Building **AI systems that are intelligent, practical, and scalable** — especially in:
-- Generative AI applications  
-- Computer Vision systems  
-- Backend-powered AI products  
+Building **AI systems that are intelligent, practical, and scalable**
+
+✨ Generative AI  
+✨ Computer Vision  
+✨ Backend-powered AI products  
 
 ---
 
@@ -111,4 +125,10 @@ Building **AI systems that are intelligent, practical, and scalable** — especi
   <a href="https://www.prakritiadhikari.info.np">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
+</p>
+
+---
+
+<p align="center">
+⭐ <i>Building AI systems that solve real problems — not just demos.</i>
 </p>

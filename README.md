@@ -53,8 +53,8 @@ Overall difference was not statistically significant (exact McNemar p = 0.81). M
 | Repo | Contents |
 |---|---|
 | [homeguard-eval](https://github.com/prakritiadhikari01/homeguard-eval) | Evaluation harness, questions, analysis, results |
-| [homeguard-ai](https://github.com/prakritiadhikari01/homeguard-ai) | Detection, tracking, identity and VLM pipeline |
-| [homeguard-app](https://github.com/prakritiadhikari01/homeguard-app) | Django REST backend and web frontend |
+| [homeguard-ai](https://github.com/prakritiadhikari01/HomeGuardAI) | Detection, tracking, identity and VLM pipeline |
+| [homeguard-app](https://github.com/prakritiadhikari01/Home_Guard) | Django REST backend and web frontend |
 
 ---
 
@@ -67,7 +67,7 @@ Overall difference was not statistically significant (exact McNemar p = 0.81). M
 ### ReflectCast
 AI-powered podcast generator. Turns written reflections into personalized spoken podcasts using ChromaDB embeddings as contextual memory, iterative prompt design, and ElevenLabs TTS.
 
-[Demo](https://youtu.be/S3u2gP0L9tc) · [Code](ADD-REPO-LINK)
+[Demo](https://youtu.be/S3u2gP0L9tc) · [Code](https://github.com/prakritiadhikari01/ReflectCast)
 
 </td>
 <td width="50%" valign="top">
@@ -75,7 +75,7 @@ AI-powered podcast generator. Turns written reflections into personalized spoken
 ### Traffix
 Smart traffic light automation. Real-time vehicle detection (YOLOv8 + OpenCV) estimates lane congestion and drives adaptive signal timing on ESP32 hardware.
 
-[Code](ADD-REPO-LINK)
+[Code](https://github.com/prakritiadhikari01/Traffix)
 
 </td>
 </tr>
